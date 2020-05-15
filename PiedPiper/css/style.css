@@ -26,9 +26,6 @@ header {
   justify-content: space-between;
 }
 
-.logo-link {
-}
-
 .nav ul {
   list-style-type: none;
   display: flex;
